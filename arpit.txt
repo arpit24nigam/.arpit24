@@ -1,0 +1,10 @@
+Python is a programming language with many characteristics, such as an intuitive syntax and powerful data structures, which can lead to efficient code. It's no wonder that this, as well as experienced developers, are benefitting.
+
+Programmers use Python for different tasks. Some use it as their primary language because it is concise and easy to read. Others include it in their toolkit because of its impressive batteries (libraries) that are available for pursuing practically any task imaginable.
+
+In this guide we will explore:
+
+- What is Python used for?
+- The History of Python
+- How to install Python
+- How to write Python code
